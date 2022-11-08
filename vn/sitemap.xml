@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://garovu.github.io/dean/vn/posts/mot-bai-viet-bang-tieng-viet/</loc>
-    <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://garovu.github.io/dean/vn/</loc>
-    <lastmod>2022-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,8 +15,11 @@
                 href="https://garovu.github.io/dean/vn/"
                 />
   </url><url>
+    <loc>https://garovu.github.io/dean/vn/posts/loi-thi-tham-cua-ca/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://garovu.github.io/dean/vn/posts/</loc>
-    <lastmod>2022-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +30,9 @@
                 hreflang="vn"
                 href="https://garovu.github.io/dean/vn/posts/"
                 />
+  </url><url>
+    <loc>https://garovu.github.io/dean/vn/posts/mot-bai-viet-bang-tieng-viet/</loc>
+    <lastmod>2022-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://garovu.github.io/dean/vn/posts/day-la-mot-bai-viet-song-ngu/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
@@ -49,6 +52,18 @@
     <loc>https://garovu.github.io/dean/vn/frseries/</loc>
   </url><url>
     <loc>https://garovu.github.io/dean/vn/frtags/</loc>
+  </url><url>
+    <loc>https://garovu.github.io/dean/vn/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://garovu.github.io/dean/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://garovu.github.io/dean/vn/archives/"
+                />
   </url><url>
     <loc>https://garovu.github.io/dean/vn/search/</loc>
     <xhtml:link

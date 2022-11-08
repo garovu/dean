@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Hand on Fish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://garovu.github.io/dean/vn/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://garovu.github.io/dean/vn/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lời thì thầm của cá</title>
+      <link>https://garovu.github.io/dean/vn/posts/loi-thi-tham-cua-ca/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garovu.github.io/dean/vn/posts/loi-thi-tham-cua-ca/</guid>
+      <description>Cải thiện Tìm kiếm trong Database Full-text search
+Mục tiêu: Cải thiện tìm kiếm trong database (DB) hay nói cách khác là làm sao để tìm kiếm trong database cho nó thông minh hơn.
+Ghi chú: Mình sử dụng postgresql 12 cho bài viết này. Với các loại Structured Query Language(SQL) DB khác mình nghĩ sẽ tương tự. Các bạn có thể chạy example trên loại DB khác để test.</description>
+    </item>
+    
     <item>
       <title>Bài viết này bằng Tiếng Việt</title>
       <link>https://garovu.github.io/dean/vn/posts/mot-bai-viet-bang-tieng-viet/</link>
